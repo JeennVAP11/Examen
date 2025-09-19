@@ -7,3 +7,4 @@
 1. Abrir una nueva carpeta en Examen con el nombre de requirements, 2. dentro de requirements escribiremos la libreria que queremos en este caso Blessed, 3. en la terminal ver las librerias instaladas con pip list enter, 4. para instalar la libreria ya sea una o varias pondremos en la terminal pip install -r requirements.txt y Listo 
 
 ## Ejecutar el programa correctamente  
+1. Abre Visual Studio, 2. activa tu espacio virtual como ya se explico, 3. Escribir cd Examen (tabulador), 4. Abrir el SRC de Figuras.py y corre el programa, 5. El menu corre y pide ciertos datos 
